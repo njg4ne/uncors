@@ -1,4 +1,0 @@
-mappings:
-  - from: http://localhost
-    to: https://github.com
-    mocks: []

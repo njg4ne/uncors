@@ -1,6 +1,0 @@
-mappings:
-  - from: http://demo:3000
-    to: https://github.com:3000
-    rewrites:
-      - from: /**/*
-        to: /path/to/cache
